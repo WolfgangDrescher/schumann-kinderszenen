@@ -1,0 +1,60 @@
+!!!COM: Schumann, Robert
+!!!CDT: 1810/06/08-1856/07/29
+!!!OPR: Kinderszenen
+!!!OPS: 15
+!!!ONM: 1
+!!!OTL: Von fremden Ländern und Menschen
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*ICklav	*	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*M2/4	*M2/4	*
+=1	=1	=1
+*^	*	*
+!	!	!LO:TX:a:B:t=M.M. [quarter]=108	!
+12BL	8G	(4b	p
+12d	.	.	.
+.	8r	.	.
+12gJ>	.	.	.
+12B-XL	8C#X	4gg	.
+12e	.	.	.
+.	8r	.	.
+12gJ>	.	.	.
+=2	=2	=2	=2
+12AL	8D	8.ff#L	.
+12d	.	.	.
+.	8r	.	.
+12f#J>	.	.	.
+.	.	16eeJk	.
+12cL	8F#	4dd)	.
+12d	.	.	.
+.	8r	.	.
+12aJ>	.	.	.
+=3	=3	=3	=3
+12BL	8G	(4b	.
+12d	.	.	.
+.	8r	.	.
+12gJ>	.	.	.
+12B-XL	8C#X	4gg	.
+12e	.	.	.
+.	8r	.	.
+12gJ>	.	.	.
+=4	=4	=4	=4
+12AL	8D	8.ff#L	.
+12d	.	.	.
+.	8r	.	.
+12f#J>	.	.	.
+.	.	16eeJk	.
+12cL	8F#	4dd)	.
+12d	.	.	.
+.	8r	.	.
+12aJ>	.	.	.
+*v	*v	*	*
+=5	=5	=5
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Wolfgang Drescher
+!!!END: 2026/05/05
+!!!EEV: 2026/05/05
