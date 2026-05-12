@@ -1,0 +1,235 @@
+!!!COM: Schumann, Robert
+!!!CDT: 1810/06/08-1856/07/29
+!!!OPR: Kinderszenen
+!!!OPS: 15
+!!!ONM: 3
+!!!OTL: Hasche-Mann
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*ICklav	*	*
+*>[A,B,B1,B2]	*>[A,B,B1,B2]	*>[A,B,B1,B2]
+*>A	*>A	*>A
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*b:	*b:	*
+*M2/4	*M2/4	*
+*MM138	*MM138	*
+=1	=1	=1
+*	*^	*
+16BB	(4b	(16f#LL\	sfp
+16r	.	16d)	.
+8ryy	.	16B<'	.
+.	.	16F#<'JJ	.
+*	*v	*v	*
+8BB'L	16cc#LL)	.
+.	16dd'	.
+8F#'J 8d	16ee'	.
+.	16ff#'JJ	.
+=	=	=
+8E'L	16aa'^LL	.
+.	16gg'	.
+8B' 8e	16ff#'	.
+.	16ee'JJ	.
+8BB'	16gg'^LL	.
+.	16ff#'	.
+8B'J 8d	16ee'	.
+.	16dd'JJ	.
+=	=	=
+*	*^	*
+16E	(4ee	(16bLL\	sfp
+16r	.	16g)	.
+8ryy	.	16e<'	.
+.	.	16B<'JJ	.
+8E'L	16ff#'LL)	4ryy	.
+.	16gg'	.	.
+8e'J 8g	16aa'	.	.
+.	16bb'JJ	.	.
+*	*v	*v	*
+=	=	=
+8F#'L	16ddd'^LL	.
+.	16ccc#'	.
+8e'J 8a#X	16bb'	.
+.	16aa#X'JJ	.
+16B'	(16ff#LL 16bb	.
+16r	16ddJJ)	.
+8ryy	16b'LL	.
+.	16f#'JJ	.
+=	=	=
+*	*^	*
+16BB	(4b	(16f#LL\	sfp
+16r	.	16d)	.
+8ryy	.	16B<'	.
+.	.	16F#<'JJ	.
+*	*v	*v	*
+8BB'L	16cc#LL)	.
+.	16dd'	.
+8F#'J 8d	16ee'	.
+.	16ff#'JJ	.
+=	=	=
+8E'L	16aa'^LL	.
+.	16gg'	.
+8B' 8e	16ff#'	.
+.	16ee'JJ	.
+8BB'	16gg'^LL	.
+.	16ff#'	.
+8B'J 8d	16ee'	.
+.	16dd'JJ	.
+=	=	=
+*	*^	*
+16E	(4ee	(16bLL\	sfp
+16r	.	16g)	.
+8ryy	.	16e<'	.
+.	.	16B<'JJ	.
+8E'L	16ff#'LL)	4ryy	.
+.	16gg'	.	.
+8e'J 8g	16aa'	.	.
+.	16bb'JJ	.	.
+*	*v	*v	*
+=	=	=
+8F#'L	16ddd'^LL	.
+.	16ccc#'	.
+8e'J 8a#X	16bb'	.
+.	16aa#X'JJ	.
+16B'	(16ff#LL 16bb	.
+16r	16ddJJ)	.
+8r	16b'LL	.
+.	16f#'JJ	.
+=||:	=||:	=||:
+*>B	*>B	*>B
+*	*^	*
+16B	(4gg	(16ddLL\	sfp
+16r	.	16b)	.
+8ryy	.	16g<'	.
+.	.	16d<'JJ	.
+8B'L	16aLL)	4ryy	.
+.	16b'	.	.
+8d'J 8g	16cc#'	.	.
+.	16dd'JJ	.	.
+*	*v	*v	*
+=	=	=
+8A'L	16ff#'LL	.
+.	16ee'	.
+8cn' 8g	16dd'	.
+.	16ccn'JJ	.
+8D'	16b'LL	.
+.	16a'	.
+8c'J	16g'	.
+.	16f#'JJ	.
+=	=	=
+*	*^	*
+8r	(4g	(16eLL\	sfp
+.	.	16B)	.
+8ryy	.	16G<'	.
+.	.	16E<'JJ	.
+8BB'L	16f#LL)	4ryy	.
+.	16g'	.	.
+8G'J 8B	16a'	.	.
+.	16b'JJ	.	.
+*	*v	*v	*
+=	=	=
+8AA'L	16dd'nLL	.
+.	16ccn'	.
+8F#' 8cn	16b'	.
+.	16a'JJ	.
+8BB'	16g'LL	.
+.	16f#'	.
+8F#'J 8A	16e'	.
+.	16d#X'JJ	.
+=	=	=
+*	*^	*
+8r	(4e	(16cnLL\	.
+.	.	16G)	.
+8ryy	.	16E<'	.
+.	.	16C<n'JJ	.
+[4CCn^ [4GG	16dLL	8dL	.
+.	16e	.	.
+.	16fn	8BJ	.
+.	16gJJ)	.	.
+=	=	=	=
+4CC] 4GG]/	(4e	(16cnLL\	.
+.	.	16G)	.
+.	.	16E<'	.
+.	.	16C<n'JJ	.
+[4CCn^ [4GG	16fnLL	8fL	.
+.	16g	.	.
+.	16a	8dJ)	.
+.	16bJJ	.	.
+=	=	=	=
+8CC] 8GG]	4ccn)	(16gLL	.
+.	.	16eJJ)	.
+16c'LL	.	8ryy	.
+16G'JJ	.	.	.
+*^	*	*	*
+8ryy	[4FF# [4F#	[4a#X [4ee	(16a#LL	sf
+.	.	.	16eJJ)	.
+(16G#L	.	.	8ryy	.
+16AnJ	.	.	.	.
+*	*	*v	*v	*
+=	=	=	=
+*	*	*	*
+16A#XLL	2FF#] 2F#]	2a#] 2ee]	<
+16B	.	.	.
+16B#X	.	.	.
+16c#JJ	.	.	.
+16dLL	.	.	.
+16d#X	.	.	.
+16e	.	.	.
+16e#XJJ)	.	.	[[
+*v	*v	*	*
+=	=	=
+*	*^	*
+8r	(4b 4ff#	(16f#LL\	sfp
+.	.	16d)	.
+8ryy	.	16B<'	.
+.	.	16F#<'JJ	.
+8BB'L	16cc#LL)	4ryy	.
+.	16dd'	.	.
+8F#'J 8d	16ee'	.	.
+.	16ff#'JJ	.	.
+*	*v	*v	*
+=	=	=
+8E'L	16aa^LL	.
+.	16gg'	.
+8B' 8e	16ff#'	.
+.	16ee'JJ	.
+8BB'	16gg'^LL	.
+.	16ff#'	.
+8B'J 8d	16ee'	.
+.	16dd'JJ	.
+=	=	=
+*	*^	*
+16E	(4ee	(16bLL\	sfp
+16r	.	16g)	.
+8ryy	.	16e<'	.
+.	.	16B<'JJ	.
+8E'L	16ff#LL)	4ryy	.
+.	16gg'	.	.
+8e'J 8g	16aa'	.	.
+.	16bb'JJ	.	.
+*	*v	*v	*
+=	=	=
+*>B1	*>B1	*>B1
+8F#'L	16ddd'^LL	.
+.	16ccc#'	.
+8e'J 8a#X	16bb'	.
+.	16aa#X'JJ	.
+16B'	(16ff#'LL 16bb	sfp
+16r	16dd'JJ)	.
+8r	16b'LL	.
+.	16f#'JJ	.
+=:|!	=:|!	=:|!
+*>B2	*>B2	*>B2
+8F#'L	16ddd'LL	.
+.	16ccc#'	.
+8e'J 8a#X	16bb'	.
+.	16aa#X'JJ	.
+4B~ 4d 4b	4bb~	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!ENC: Wolfgang Drescher
+!!!END: 2026/05/12
+!!!EEV: 2026/05/12
